@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Homework {
     public static void main(String[] args) {
         List<Book> books = new ArrayList<>();
-        System.out.println("1. Input book");
+        System.out.println("1. Input book's");
         System.out.println("2. Find book by ISBN");
         System.out.println("0. Exit!");
         Scanner scanner = new Scanner(System.in);
